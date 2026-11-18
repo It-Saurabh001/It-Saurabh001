@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Saurabh%20Yadav&fontSize=44&fontAlignY=38&color=0:0f172a,100:1e40af&fontColor=ffffff&desc=Android%20%7C%20Full-Stack%20%7C%20React%20Native&descAlignY=58&descAlign=50&animation=twinkling" alt="Saurabh Yadav - Android, Full-Stack and React Native Developer" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Android+Developer;React+Native+Developer;Full-Stack+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Flask)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose%7C+KMP;React+Native+Developer;Full-Stack+Developer%7C+Flask)](https://git.io/typing-svg)
 
 **Kotlin • Android • Jetpack Compose • Python • Flask • React Native • TypeScript**
 
