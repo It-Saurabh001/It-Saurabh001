@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venetian&height=200&text=Saurabh%20Yadav&fontSize=48&fontAlignY=38&color=0:0f172a,50:1e3a8a,100:2563eb&fontColor=ffffff&desc=Android%20%7C%20React%20Native%20%7C%20Software%20Developer&descSize=18&descAlignY=60&animation=fadeIn" alt="Saurabh Yadav banner" />
+<img src="assets/banner.svg" alt="Saurabh Yadav banner" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=760&lines=Android+Developer+%E2%80%A2+Kotlin+%7C+Jetpack+Compose;React+Native+Developer+%E2%80%A2+Expo+%7C+TypeScript;Flask+REST+APIs+%E2%80%A2+JWT+%7C+Redis+%7C+Docker;SIH+2025+University+Rank+2+%F0%9F%8F%86)](https://it-saurabh001.github.io/portfolio/)
 
@@ -137,6 +137,6 @@ Android and React Native developer with a **B.Tech in Computer Engineering (Univ
 
 **Open to Android / React Native / Full-Stack roles. Let's build something great together.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,100:0f172a&animation=twinkling" alt="footer" />
+<img src="assets/footer.svg" alt="footer" width="100%" />
 
 </div>
