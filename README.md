@@ -1,82 +1,142 @@
-<!-- Animated Profile README -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Saurabh%20Yadav&fontSize=44&fontAlignY=38&color=0:0f172a,100:1e40af&fontColor=ffffff&desc=Android%20%7C%20Full-Stack%20%7C%20Kotlin&descSize=18&descAlignY=58&animation=fadeIn" alt="Saurabh Yadav Profile Banner" />
+<img src="https://capsule-render.vercel.app/api?type=venetian&height=200&text=Saurabh%20Yadav&fontSize=48&fontAlignY=38&color=0:0f172a,50:1e3a8a,100:2563eb&fontColor=ffffff&desc=Android%20%7C%20React%20Native%20%7C%20Software%20Developer&descSize=18&descAlignY=60&animation=fadeIn" alt="Saurabh Yadav banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose;React+Native+%7C+TypeScript;Python+%7C+Flask+Backend+Developer)](https://github.com/It-Saurabh001)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=760&lines=Android+Developer+%E2%80%A2+Kotlin+%7C+Jetpack+Compose;React+Native+Developer+%E2%80%A2+Expo+%7C+TypeScript;Flask+REST+APIs+%E2%80%A2+JWT+%7C+Redis+%7C+Docker;SIH+2025+University+Rank+2+%F0%9F%8F%86)](https://it-saurabh001.github.io/portfolio/)
 
-**Kotlin • Android • Jetpack Compose • Python • Flask • React Native • TypeScript**
-
-I build reliable mobile experiences and full-stack applications with a focus on clean UI, practical architecture, and real-world use cases.
-
-[![GitHub](https://img.shields.io/badge/GitHub-It--Saurabh001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/It-Saurabh001)
-[![Profile Views](https://komarev.com/ghpvc/?username=It-Saurabh001&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS)](https://github.com/It-Saurabh001)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Animated coding banner" />
+<p>
+  <a href="https://it-saurabh001.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/it-saurabh0010"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:09saurabh07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge" alt="Open to work" />
+</p>
 
 </div>
 
-## About
+---
 
-- Android developer focused on Kotlin, Jetpack Compose, and modern app architecture
-- React Native developer building cross-platform mobile applications
-- Full-stack developer building Python and Flask REST backends
-- Experienced with offline apps, QR workflows, inventory, and pharmacy management systems
-- Interested in creating scalable, maintainable, and useful software
+## 👋 About Me
 
-### 👨‍💻 Languages and Tools
+Android and React Native developer with a **B.Tech in Computer Engineering (University of Lucknow, 2022 – 2026)**. I build scalable, user-focused mobile apps with **Kotlin, Jetpack Compose, React Native, Expo and TypeScript**, using **MVVM, Clean Architecture, Hilt, Coroutines/Flow, Firebase, Retrofit and REST APIs**. I also design the backend: versioned Flask APIs with JWT, Redis and Docker.
 
-<br />
+- 🚀 Currently building React Native screens and animations for **Astronath**, a live Vedic astrology platform
+- 🏆 **2nd Rank (University Level), Smart India Hackathon 2025** for *eNagar*
+- 🏥 Built a full pharmacy system: **75+ endpoint API + 40+ screen admin app + 25+ screen user app**
+- 📍 Lucknow, India
 
-[![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white&link=https://kotlinlang.org/)](https://kotlinlang.org/) 
-[![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white&link=https://developer.android.com/)](https://developer.android.com/) 
-[![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white&link=https://developer.android.com/compose)](https://developer.android.com/compose) 
-[![Room](https://img.shields.io/badge/-Room-4285F4?style=flat&logo=sqlite&logoColor=white&link=https://developer.android.com/training/data-storage/room)](https://developer.android.com/training/data-storage/room)
+## 💼 Experience
 
-[![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB&link=https://reactnative.dev/)](https://reactnative.dev/) 
-[![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white&link=https://expo.dev/)](https://expo.dev/) 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/) 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://developer.mozilla.org/docs/Web/JavaScript)](https://developer.mozilla.org/docs/Web/JavaScript)
+| Role | Where | When |
+|---|---|---|
+| **React Native Developer (Collaborator)** | [Astronath](https://astronath.com) · Remote | Nov 2026 – Present |
+| **Summer Development Intern** | Northern Railway, Supervisors Training Centre (STC) · On-site | Jun 2025 – Jul 2025 |
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/) 
-[![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white&link=https://flask.palletsprojects.com/)](https://flask.palletsprojects.com/) 
-[![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat&logo=sqlite&logoColor=white&link=https://www.sqlite.org/)](https://www.sqlite.org/) 
-[![JSON](https://img.shields.io/badge/-JSON-02569B?style=flat&logo=json&logoColor=white&link=https://www.json.org/)](https://www.json.org/)
+**Astronath** — *React Native, Expo, Expo Router, TypeScript, Reanimated, Lottie, Context API, Firebase, Razorpay, i18n*
+- Working with a multi-developer team on the live app's mobile client
+- Built Payment Cancelled (premium benefits), Vedic Matchmaking analysis and Numerology form screens
+- Added Reanimated and Lottie animations, including color-coded compatibility progress bars
+- Managed auth, wallet and profile state with Context API; updated Razorpay flows and i18n
 
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&link=https://github.com/)](https://github.com/) 
-[![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white&link=https://developer.android.com/studio)](https://developer.android.com/studio) 
-[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
+**Northern Railway STC** — *React*
+- Built frontend for a Hostel Management website: bed capacity, availability, resident allocation and inventory (mattresses, pillows) tracking
+- Improved layouts, visual consistency and navigation; organized the project into reusable components
 
-## Featured Work
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Medicine Management System: Pharmacy REST API + Admin & User Android Apps
+[API](https://github.com/It-Saurabh001/Medi_Manage_Api) · [Live API](https://medi-manage-api.onrender.com) · [Admin App](https://github.com/It-Saurabh001/Admin_Medi_App) · [User App](https://github.com/It-Saurabh001/User_Medi_App)
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white) ![Hilt](https://img.shields.io/badge/-Hilt-3DDC84?logo=android&logoColor=white) ![Retrofit](https://img.shields.io/badge/-Retrofit-48B983) ![CameraX](https://img.shields.io/badge/-CameraX%20%2B%20ML%20Kit-4285F4) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)
+
+- **Backend:** versioned Flask REST API with **75+ endpoints** (auth, users, products, batches, orders, checkouts, suppliers, reports, audit logs); JWT access/refresh tokens, email OTP, role-based access, Redis rate limiting, OpenAPI/Swagger docs and **100+ pytest tests**
+- **Inventory logic:** batch-wise stock with **First-Expiry-First-Out (FEFO)** deduction, stock-movement ledger, prescription verification, multi-product checkout with a single invoice and idempotent POSTs; Dockerized and deployed on Render with Turso (libSQL)
+- **Admin app:** **40+ Compose screens**: sales dashboard, product/batch management with CameraX + ML Kit barcode scanning, stock purchase/adjustment, inventory alerts, order approve-to-sale and returns, reports, suppliers and audit logs
+- **User app:** **25+ Compose screens**: OTP sign-up/sign-in, search with filters and barcode lookup, cart and checkout, prescription upload, order tracking and invoices; MVVM + Hilt + StateFlow, OkHttp auto token refresh and encrypted token storage
+
+### 📱 QR Studio: QR & Barcode Scanner and Generator
+[Source](https://github.com/It-Saurabh001/qr-app)
+
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white) ![NativeWind](https://img.shields.io/badge/-NativeWind-06B6D4?logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Cloudflare](https://img.shields.io/badge/-Cloudflare%20Workers-F38020?logo=cloudflare&logoColor=white)
+
+- Offline-first app with Redux Toolkit + Redux Persist
+- `expo-camera` scanning for QR and 1D/2D barcodes (EAN-13, UPC-A, PDF417), gallery import, haptics and Reanimated animation
+- QR generator with **8 payload templates** (URL, Wi-Fi, vCard, SMS, Location), color customization and PNG export/share
+- Firebase Auth (Email, Google Sign-In), Firestore sync and Cloudinary uploads signed by a serverless Cloudflare Worker
+
+### 🏆 eNagar: Smart India Hackathon 2025 (University Rank 2)
+[Source](https://github.com/Krishna-Sinoria/eNagar)
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase%20%2B%20FCM-FFCA28?logo=firebase&logoColor=black) ![Material 3](https://img.shields.io/badge/-Material%203-757575?logo=materialdesign&logoColor=white)
+
+- Civic issue reporting Android app with separate **Citizen and Admin** interfaces for reporting, management and status monitoring
+- Built **15+ responsive Compose screens** (MVVM, Hilt, Coroutines/Flow); collaborated on dashboard integration and scalable workflows
+
+### 📦 More projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [Admin Medi App](https://github.com/It-Saurabh001/Admin_Medi_App) | Pharmacy administration, products, stock, orders, prescriptions, sales, and reports | Kotlin, Jetpack Compose, Android |
-| [Medi Manage API](https://github.com/It-Saurabh001/Medi_Manage_Api) | REST API for pharmacy management, users, products, orders, inventory, and sales | Python, Flask, SQLite |
-| [User Medi App](https://github.com/It-Saurabh001/User_Medi_App) | Customer app for browsing medicines, placing orders, prescriptions, and order tracking | Kotlin, Jetpack Compose, Android |
-| [Shopping List App](https://github.com/It-Saurabh001/Shopping_List_App) | Modern shopping list application | Kotlin, Jetpack Compose |
-| [Sudoku Game](https://github.com/It-Saurabh001/Sudoku-Game) | Offline Sudoku with gameplay tools, saved progress, statistics, and achievements | Kotlin, Jetpack Compose, Room |
-| [qr-app](https://github.com/It-Saurabh001/qr-app) | Cross-platform QR and barcode scan, create, organize, and sync app | React Native, Expo, TypeScript |
+| [OneCornerSystem](https://github.com/It-Saurabh001/OneCornerSystem) ⭐ | Final year project | Kotlin |
+| [Sudoku Game](https://github.com/It-Saurabh001/Sudoku-Game) | Offline Sudoku with saved progress, statistics and achievements | Kotlin, Compose, Room |
+| [XChat](https://github.com/It-Saurabh001/XChat) | Chat application | Kotlin |
+| [Shopping List App](https://github.com/It-Saurabh001/Shopping_List_App) | Shopping list app | Kotlin, Compose |
+| [Todo with Room](https://github.com/It-Saurabh001/Todowithroom) | To-do app with local database | Kotlin, Room |
 
-## Most Used Languages & Project Features
+---
+
+## 🧰 Technical Skills
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=It-Saurabh001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="70%" alt="Most used languages" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,ts,js,dart,py,c,html,css,sqlite&perline=10" alt="Languages" />
+
+<img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,firebase,flask,docker,redis,git,github,postman,vscode&perline=11" alt="Tools" />
 
 </div>
 
-| Language / Framework | How it is used in my projects |
+| Area | Skills |
 |---|---|
-| **Kotlin + Jetpack Compose** | Native Android apps. Medi apps use Compose and Material 3 screens, ViewModels with StateFlow, repositories, Retrofit/OkHttp networking, Hilt dependency injection, barcode and camera workflows, local persistence, and inventory management. |
-| **React Native + TypeScript** | `qr-app` (QR Studio) is an Expo mobile app. It includes offline QR/barcode scanning and generation, camera and gallery support, customizable QR codes, history and favorites, sharing, organization, and cloud synchronization. |
-| **Python + Flask** | REST API backend for pharmacy workflows, including authentication, user and product management, orders, inventory, and sales records. |
+| **Languages** | Kotlin, Java, TypeScript, JavaScript, Dart, Python, SQL, C, HTML, CSS |
+| **Android** | Jetpack Compose, Android SDK, MVVM, Coroutines, Flow, LiveData, ViewModel, Hilt, Room, DataStore, CameraX, ML Kit, OkHttp, Material 3 |
+| **Cross-platform & Web** | React Native, Expo, Expo Router, Reanimated, Lottie, Redux Toolkit, Redux Persist, Context API, AsyncStorage, NativeWind, Tailwind CSS, React, Flutter |
+| **Backend & Cloud** | Firebase (Auth, Firestore, Realtime DB, Storage, FCM), Google Sign-In, REST APIs, Retrofit, Flask, JWT, Redis, Docker, Cloudflare Workers, Cloudinary, Razorpay |
+| **Tools** | Android Studio, VS Code, Git, GitHub, Postman, Gradle, SQLite, ESLint, Prettier, PythonAnywhere |
+| **Concepts** | OOP, SOLID, Clean Architecture, Repository Pattern, State Management, Offline-First, Serverless, UI Animations, Real-Time Systems, i18n, Debugging |
+
+## 🎓 Education & Achievements
+
+- 🎓 **B.Tech, Computer Engineering**: University of Lucknow (Jun 2022 – Jun 2026)
+- 🥈 **2nd Rank (University Level)**: Smart India Hackathon 2025, *eNagar*
+- 📜 Samsung Innovation Campus: Coding & Programming Certification
+- 📜 Android App Development Specialization: Udemy (Jun 2025)
+- 📜 Android Development training (Kotlin, Jetpack Compose, Firebase): Neat Roots
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1e40af,100:0f172a&animation=twinkling" alt="Animated footer" />
+<img src="https://github-readme-stats.vercel.app/api?username=It-Saurabh001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=It-Saurabh001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
 
-**Open to collaboration and opportunities to build impactful software.**
+<img src="https://streak-stats.demolab.com?user=It-Saurabh001&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://it-saurabh001.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/it-saurabh0010)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:09saurabh07@gmail.com)
+
+**Open to Android / React Native / Full-Stack roles. Let's build something great together.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,100:0f172a&animation=twinkling" alt="footer" />
 
 </div>
